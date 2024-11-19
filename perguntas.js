@@ -5,10 +5,10 @@ criaCartao(
 )
 
 
-criaCartão(
-    'Matemática',
-    'Qual é a raíz de 49?',
-    'A raíz de 49 é 7'
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
