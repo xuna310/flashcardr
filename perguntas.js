@@ -14,6 +14,7 @@ criaCartão(
     'Matemática',
     'Qual é a raíz de 49?',
     'A raíz de 49 é 7'
+)
 
 criaCartao(
     'Programação',
