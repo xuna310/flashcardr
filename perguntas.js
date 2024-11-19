@@ -10,6 +10,11 @@ criaCartao(
     'A capital da França é Paris'
 )
 
+criaCartão(
+    'Matemática',
+    'Qual é a raíz de 49?',
+    'A raíz de 49 é 7'
+
 criaCartao(
     'Programação',
     'O que é uma função?',
